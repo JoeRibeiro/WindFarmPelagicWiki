@@ -1,4 +1,5 @@
 # WindFarmPelagicWiki
-Explore here:
+Access the wiki of links here:
 https://github.com/JoeRibeiro/WindFarmPelagicWiki/wiki/Reading-around-wind-farm-issues,-by-topic
-Links to help my understanding of the issues surrounding wind farms, particularly for pelagic fish
+
+These are links to help my understanding of the issues surrounding wind farms, particularly for pelagic fish
